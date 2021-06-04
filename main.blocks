@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="k0m1dgxFCyG`=B|c2T66" x="20" y="20"/><block type="device_forever" id="^CD9ePLH=u@^/[(j^3o|" x="225" y="20"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="a8EXK?ci=cY@PZDi(GI_">轉向</variable></variables><block type="pxt-on-start" id="k0m1dgxFCyG`=B|c2T66" x="0" y="0"/><block type="device_forever" id="^CD9ePLH=u@^/[(j^3o|" x="205" y="0"/></xml>
